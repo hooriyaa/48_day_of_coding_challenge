@@ -1,0 +1,17 @@
+{
+  "name": "hooriya_table_generator_cli_typescript_project_789",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.12"
+  },
+  "hooriya_table_generator_cli_typescript_project_789":"bin/index.js"
+}
